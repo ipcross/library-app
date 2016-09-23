@@ -27,7 +27,7 @@ You will need the following things properly installed on your computer.
     cd library-app
     ```
 
-3. Install node and bowel install:
+3. Install node and bowel packages:
 
     ```
     npm install && bower install
@@ -49,7 +49,7 @@ You will need the following things properly installed on your computer.
 6. Open the application in your browser:
 
     ```
-    [http://localhost:4200](http://localhost:4200)
+    http://localhost:4200
     ```
 
 
