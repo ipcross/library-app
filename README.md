@@ -1,4 +1,4 @@
-Library-App [![Code Climate](https://codeclimate.com/github/ipcross/ansme/badges/gpa.svg)](https://codeclimate.com/github/ipcross/ansme) [![Build Status](https://travis-ci.org/ipcross/ansme.svg?branch=master)](https://travis-ci.org/ipcross/ansme) [![Test Coverage](https://codeclimate.com/github/ipcross/ansme/badges/coverage.svg)](https://codeclimate.com/github/ipcross/ansme/coverage)
+Library-App [![Build Status](https://travis-ci.org/ipcross/library-app.svg?branch=master)](https://travis-ci.org/ipcross/library-app) [![Code Climate](https://codeclimate.com/github/ipcross/library-app/badges/gpa.svg)](https://codeclimate.com/github/ipcross/library-app) [![Test Coverage](https://codeclimate.com/github/ipcross/library-app/badges/coverage.svg)](https://codeclimate.com/github/ipcross/library-app/coverage)
 =========
 
 Example Application Tutorial for Ember.js 2.8
